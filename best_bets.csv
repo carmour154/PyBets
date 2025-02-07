@@ -1,0 +1,51 @@
+expected_value,book,team,odds,probability
+2.999,draftkings,Sacramento St Hornets,1500.0,26.66
+1.2661000000000002,betmgm,Sacramento St Hornets,850.0,26.66
+0.8281999999999998,betmgm,Denver Pioneers,3300.0,5.54
+0.6005000000000003,draftkings,Saint Mary's Gaels,550.0,29.1
+0.5511999999999999,espnbet,Denver Pioneers,2800.0,5.54
+0.46629999999999994,bovada,Sacramento St Hornets,550.0,26.66
+0.3680000000000001,draftkings,CSU Fullerton Titans,4000.0,3.42
+0.36626000000000025,draftkings,Tenn-Martin Skyhawks,210.0,65.06
+0.3386,draftkings,Tennessee Tech Golden Eagles,575.0,23.28
+0.3277199999999998,espnbet,Lindenwood Lions,380.0,34.94
+0.2914000000000001,draftkings,Portland Pilots,2200.0,5.87
+0.22220000000000018,ballybet,Saint Mary's Gaels,420.0,29.1
+0.19999999999999996,draftkings,Tarleton State Texans,3000.0,4.0
+0.17399999999999993,espnbet,Portland Pilots,2000.0,5.87
+0.17149999999999999,betmgm,Gardner-Webb Bulldogs,3300.0,3.55
+0.1200000000000001,espnbet,Tarleton State Texans,2800.0,4.0
+0.09125000000000005,betrivers,Saint Mary's Gaels,375.0,29.1
+0.0835999999999999,espnbet,CSU Bakersfield Roadrunners,900.0,12.04
+0.0835999999999999,draftkings,CSU Bakersfield Roadrunners,900.0,12.04
+0.06350000000000011,espnbet,Golden State Warriors,1500.0,7.09
+0.006250000000000089,betmgm,Toronto Raptors,1250.0,8.05
+-0.007399999999999962,draftkings,Golden State Warriors,1400.0,7.09
+-0.022840000000000082,fanduel,Fresno St Bulldogs,680.0,14.37
+-0.03071999999999997,fanduel,Washington Wizards,1040.0,9.32
+-0.03400000000000003,fanduel,Toronto Raptors,1200.0,8.05
+-0.04239999999999999,espnbet,CSU Fullerton Titans,2800.0,3.42
+-0.05057999999999996,fanduel,San José St Spartans,740.0,12.83
+-0.06799999999999995,espnbet,Washington Wizards,1000.0,9.32
+-0.06799999999999995,betmgm,Washington Wizards,1000.0,9.32
+-0.07829999999999993,hardrockbet,Golden State Warriors,1300.0,7.09
+-0.08843999999999996,fanduel,Indiana Pacers,520.0,17.53
+-0.08843999999999996,draftkings,Indiana Pacers,520.0,17.53
+-0.09155999999999997,ballybet,Lindenwood Lions,260.0,34.94
+-0.09207999999999994,ballybet,Tennessee Tech Golden Eagles,390.0,23.28
+-0.09700000000000009,bovada,CSU Bakersfield Roadrunners,750.0,12.04
+-0.09700000000000009,ballybet,CSU Bakersfield Roadrunners,750.0,12.04
+-0.0976999999999999,espnbet,USC Trojans,700.0,12.89
+-0.10189999999999999,espnbet,San José St Spartans,700.0,12.83
+-0.11449999999999994,espnbet,Toronto Raptors,1100.0,8.05
+-0.11949999999999994,fanduel,Portland Pilots,1500.0,5.87
+-0.12349999999999994,ballybet,Indiana Pacers,500.0,17.53
+-0.12858000000000003,fliff,Washington Wizards,935.0,9.32
+-0.134625,fliff,Toronto Raptors,1075.0,8.05
+-0.13780000000000003,betrivers,Fresno St Bulldogs,600.0,14.37
+-0.13780000000000003,ballybet,Fresno St Bulldogs,600.0,14.37
+-0.14500000000000002,fanduel,CSU Fullerton Titans,2500.0,3.42
+-0.1492,fanduel,Golden State Warriors,1200.0,7.09
+-0.15474999999999994,bovada,Toronto Raptors,1050.0,8.05
+-0.1560999999999999,fliff,Saint Mary's Gaels,290.0,29.1
+-0.1572,hardrockbet,CSU Bakersfield Roadrunners,700.0,12.04

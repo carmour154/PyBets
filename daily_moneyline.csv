@@ -1,0 +1,463 @@
+sport,game_id,book,home_team,away_team,home_team_odds,away_team_odds,date_time
+NBA,a916ee7696fde8f1a82e214c36a04b9a,betmgm,Denver Nuggets,Orlando Magic,,,2025-02-06 22:03:21.931521
+NBA,39da2a6da9ab2746b1ff9f320f9f5a14,betmgm,Los Angeles Lakers,Golden State Warriors,-3000.0,1150.0,2025-02-06 22:03:21.931521
+NBA,b3df91f1d79355a68f8aa279f17e2a3e,betmgm,Portland Trail Blazers,Sacramento Kings,-185.0,145.0,2025-02-06 22:03:21.931521
+NBA,0dd68311a8617606a6956cd6e511fd9e,betmgm,Los Angeles Clippers,Indiana Pacers,-750.0,475.0,2025-02-06 22:03:21.931521
+NBA,c8310e046f80bf6292c633aff61cffdb,betmgm,Charlotte Hornets,San Antonio Spurs,450.0,-625.0,2025-02-06 22:03:21.931521
+NBA,f592f9667df5d2b96f41a71c90cddf39,betmgm,Washington Wizards,Cleveland Cavaliers,1000.0,-2000.0,2025-02-06 22:03:21.931521
+NBA,9a5a6098686e727ed1ed46d6dfc879ca,betmgm,Atlanta Hawks,Milwaukee Bucks,180.0,-220.0,2025-02-06 22:03:21.931521
+NBA,2ee31055f5cc3975abda3f49017b550e,betmgm,Brooklyn Nets,Miami Heat,220.0,-275.0,2025-02-06 22:03:21.931521
+NBA,78e03cf799710b90c7e8b9af3bb4d1d1,betmgm,Detroit Pistons,Philadelphia 76ers,115.0,-140.0,2025-02-06 22:03:21.931521
+NBA,5c962a5ad947d385ee524f36970a8ce4,betmgm,Oklahoma City Thunder,Toronto Raptors,-3000.0,1250.0,2025-02-06 22:03:21.931521
+NBA,984ea4c49b7729eb8269618e77e99b27,betmgm,Phoenix Suns,Utah Jazz,,,2025-02-06 22:03:21.931521
+NBA,8c5dfc09221b32ad1835ce0e5c426454,betmgm,Los Angeles Lakers,Dallas Mavericks,,,2025-02-06 22:03:21.931521
+NBA,f880e059bbee7b5b9e4af4d17bcee511,betmgm,Sacramento Kings,San Antonio Spurs,,,2025-02-06 22:03:21.931521
+NBA,0e1dde121b5be88b7c95e744d43c877f,betmgm,Miami Heat,Golden State Warriors,,,2025-02-06 22:03:21.931521
+NBA,a916ee7696fde8f1a82e214c36a04b9a,fliff,Denver Nuggets,Orlando Magic,,,2025-02-06 22:03:21.931521
+NBA,39da2a6da9ab2746b1ff9f320f9f5a14,fliff,Los Angeles Lakers,Golden State Warriors,-5005.0,1015.0,2025-02-06 22:03:21.931521
+NBA,b3df91f1d79355a68f8aa279f17e2a3e,fliff,Portland Trail Blazers,Sacramento Kings,-175.0,125.0,2025-02-06 22:03:21.931521
+NBA,0dd68311a8617606a6956cd6e511fd9e,fliff,Los Angeles Clippers,Indiana Pacers,-350.0,230.0,2025-02-06 22:03:21.931521
+NBA,c8310e046f80bf6292c633aff61cffdb,fliff,Charlotte Hornets,San Antonio Spurs,430.0,-705.0,2025-02-06 22:03:21.931521
+NBA,f592f9667df5d2b96f41a71c90cddf39,fliff,Washington Wizards,Cleveland Cavaliers,935.0,-2195.0,2025-02-06 22:03:21.931521
+NBA,9a5a6098686e727ed1ed46d6dfc879ca,fliff,Atlanta Hawks,Milwaukee Bucks,170.0,-230.0,2025-02-06 22:03:21.931521
+NBA,2ee31055f5cc3975abda3f49017b550e,fliff,Brooklyn Nets,Miami Heat,215.0,-295.0,2025-02-06 22:03:21.931521
+NBA,78e03cf799710b90c7e8b9af3bb4d1d1,fliff,Detroit Pistons,Philadelphia 76ers,110.0,-145.0,2025-02-06 22:03:21.931521
+NBA,5c962a5ad947d385ee524f36970a8ce4,fliff,Oklahoma City Thunder,Toronto Raptors,-2850.0,1075.0,2025-02-06 22:03:21.931521
+NBA,984ea4c49b7729eb8269618e77e99b27,fliff,Phoenix Suns,Utah Jazz,-330.0,235.0,2025-02-06 22:03:21.931521
+NBA,8c5dfc09221b32ad1835ce0e5c426454,fliff,Los Angeles Lakers,Dallas Mavericks,,,2025-02-06 22:03:21.931521
+NBA,f880e059bbee7b5b9e4af4d17bcee511,fliff,Sacramento Kings,San Antonio Spurs,,,2025-02-06 22:03:21.931521
+NBA,0e1dde121b5be88b7c95e744d43c877f,fliff,Miami Heat,Golden State Warriors,,,2025-02-06 22:03:21.931521
+NBA,a916ee7696fde8f1a82e214c36a04b9a,bovada,Denver Nuggets,Orlando Magic,,,2025-02-06 22:03:21.931521
+NBA,39da2a6da9ab2746b1ff9f320f9f5a14,bovada,Los Angeles Lakers,Golden State Warriors,,,2025-02-06 22:03:21.931521
+NBA,b3df91f1d79355a68f8aa279f17e2a3e,bovada,Portland Trail Blazers,Sacramento Kings,-185.0,140.0,2025-02-06 22:03:21.931521
+NBA,0dd68311a8617606a6956cd6e511fd9e,bovada,Los Angeles Clippers,Indiana Pacers,-750.0,450.0,2025-02-06 22:03:21.931521
+NBA,c8310e046f80bf6292c633aff61cffdb,bovada,Charlotte Hornets,San Antonio Spurs,425.0,-600.0,2025-02-06 22:03:21.931521
+NBA,f592f9667df5d2b96f41a71c90cddf39,bovada,Washington Wizards,Cleveland Cavaliers,800.0,-1600.0,2025-02-06 22:03:21.931521
+NBA,9a5a6098686e727ed1ed46d6dfc879ca,bovada,Atlanta Hawks,Milwaukee Bucks,180.0,-220.0,2025-02-06 22:03:21.931521
+NBA,2ee31055f5cc3975abda3f49017b550e,bovada,Brooklyn Nets,Miami Heat,215.0,-260.0,2025-02-06 22:03:21.931521
+NBA,78e03cf799710b90c7e8b9af3bb4d1d1,bovada,Detroit Pistons,Philadelphia 76ers,120.0,-140.0,2025-02-06 22:03:21.931521
+NBA,5c962a5ad947d385ee524f36970a8ce4,bovada,Oklahoma City Thunder,Toronto Raptors,-2500.0,1050.0,2025-02-06 22:03:21.931521
+NBA,984ea4c49b7729eb8269618e77e99b27,bovada,Phoenix Suns,Utah Jazz,,,2025-02-06 22:03:21.931521
+NBA,8c5dfc09221b32ad1835ce0e5c426454,bovada,Los Angeles Lakers,Dallas Mavericks,-195.0,165.0,2025-02-06 22:03:21.931521
+NBA,f880e059bbee7b5b9e4af4d17bcee511,bovada,Sacramento Kings,San Antonio Spurs,,,2025-02-06 22:03:21.931521
+NBA,0e1dde121b5be88b7c95e744d43c877f,bovada,Miami Heat,Golden State Warriors,,,2025-02-06 22:03:21.931521
+NBA,a916ee7696fde8f1a82e214c36a04b9a,draftkings,Denver Nuggets,Orlando Magic,,,2025-02-06 22:03:21.931521
+NBA,39da2a6da9ab2746b1ff9f320f9f5a14,draftkings,Los Angeles Lakers,Golden State Warriors,-3500.0,1400.0,2025-02-06 22:03:21.931521
+NBA,b3df91f1d79355a68f8aa279f17e2a3e,draftkings,Portland Trail Blazers,Sacramento Kings,-188.0,145.0,2025-02-06 22:03:21.931521
+NBA,0dd68311a8617606a6956cd6e511fd9e,draftkings,Los Angeles Clippers,Indiana Pacers,-850.0,520.0,2025-02-06 22:03:21.931521
+NBA,c8310e046f80bf6292c633aff61cffdb,draftkings,Charlotte Hornets,San Antonio Spurs,440.0,-600.0,2025-02-06 22:03:21.931521
+NBA,f592f9667df5d2b96f41a71c90cddf39,draftkings,Washington Wizards,Cleveland Cavaliers,900.0,-1600.0,2025-02-06 22:03:21.931521
+NBA,9a5a6098686e727ed1ed46d6dfc879ca,draftkings,Atlanta Hawks,Milwaukee Bucks,170.0,-205.0,2025-02-06 22:03:21.931521
+NBA,2ee31055f5cc3975abda3f49017b550e,draftkings,Brooklyn Nets,Miami Heat,220.0,-270.0,2025-02-06 22:03:21.931521
+NBA,78e03cf799710b90c7e8b9af3bb4d1d1,draftkings,Detroit Pistons,Philadelphia 76ers,110.0,-130.0,2025-02-06 22:03:21.931521
+NBA,5c962a5ad947d385ee524f36970a8ce4,draftkings,Oklahoma City Thunder,Toronto Raptors,-1800.0,1000.0,2025-02-06 22:03:21.931521
+NBA,984ea4c49b7729eb8269618e77e99b27,draftkings,Phoenix Suns,Utah Jazz,-310.0,250.0,2025-02-06 22:03:21.931521
+NBA,8c5dfc09221b32ad1835ce0e5c426454,draftkings,Los Angeles Lakers,Dallas Mavericks,-198.0,164.0,2025-02-06 22:03:21.931521
+NBA,f880e059bbee7b5b9e4af4d17bcee511,draftkings,Sacramento Kings,San Antonio Spurs,-130.0,110.0,2025-02-06 22:03:21.931521
+NBA,0e1dde121b5be88b7c95e744d43c877f,draftkings,Miami Heat,Golden State Warriors,-115.0,-105.0,2025-02-06 22:03:21.931521
+NBA,a916ee7696fde8f1a82e214c36a04b9a,fanduel,Denver Nuggets,Orlando Magic,,,2025-02-06 22:03:21.931521
+NBA,39da2a6da9ab2746b1ff9f320f9f5a14,fanduel,Los Angeles Lakers,Golden State Warriors,-5000.0,1200.0,2025-02-06 22:03:21.931521
+NBA,b3df91f1d79355a68f8aa279f17e2a3e,fanduel,Portland Trail Blazers,Sacramento Kings,-172.0,134.0,2025-02-06 22:03:21.931521
+NBA,0dd68311a8617606a6956cd6e511fd9e,fanduel,Los Angeles Clippers,Indiana Pacers,-900.0,520.0,2025-02-06 22:03:21.931521
+NBA,c8310e046f80bf6292c633aff61cffdb,fanduel,Charlotte Hornets,San Antonio Spurs,450.0,-600.0,2025-02-06 22:03:21.931521
+NBA,f592f9667df5d2b96f41a71c90cddf39,fanduel,Washington Wizards,Cleveland Cavaliers,1040.0,-2000.0,2025-02-06 22:03:21.931521
+NBA,9a5a6098686e727ed1ed46d6dfc879ca,fanduel,Atlanta Hawks,Milwaukee Bucks,180.0,-215.0,2025-02-06 22:03:21.931521
+NBA,2ee31055f5cc3975abda3f49017b550e,fanduel,Brooklyn Nets,Miami Heat,220.0,-270.0,2025-02-06 22:03:21.931521
+NBA,78e03cf799710b90c7e8b9af3bb4d1d1,fanduel,Detroit Pistons,Philadelphia 76ers,120.0,-142.0,2025-02-06 22:03:21.931521
+NBA,5c962a5ad947d385ee524f36970a8ce4,fanduel,Oklahoma City Thunder,Toronto Raptors,-2500.0,1200.0,2025-02-06 22:03:21.931521
+NBA,984ea4c49b7729eb8269618e77e99b27,fanduel,Phoenix Suns,Utah Jazz,-300.0,245.0,2025-02-06 22:03:21.931521
+NBA,8c5dfc09221b32ad1835ce0e5c426454,fanduel,Los Angeles Lakers,Dallas Mavericks,-198.0,166.0,2025-02-06 22:03:21.931521
+NBA,f880e059bbee7b5b9e4af4d17bcee511,fanduel,Sacramento Kings,San Antonio Spurs,,,2025-02-06 22:03:21.931521
+NBA,0e1dde121b5be88b7c95e744d43c877f,fanduel,Miami Heat,Golden State Warriors,,,2025-02-06 22:03:21.931521
+NBA,a916ee7696fde8f1a82e214c36a04b9a,hardrockbet,Denver Nuggets,Orlando Magic,,,2025-02-06 22:03:21.931521
+NBA,39da2a6da9ab2746b1ff9f320f9f5a14,hardrockbet,Los Angeles Lakers,Golden State Warriors,-4000.0,1300.0,2025-02-06 22:03:21.931521
+NBA,b3df91f1d79355a68f8aa279f17e2a3e,hardrockbet,Portland Trail Blazers,Sacramento Kings,-180.0,150.0,2025-02-06 22:03:21.931521
+NBA,0dd68311a8617606a6956cd6e511fd9e,hardrockbet,Los Angeles Clippers,Indiana Pacers,-700.0,475.0,2025-02-06 22:03:21.931521
+NBA,c8310e046f80bf6292c633aff61cffdb,hardrockbet,Charlotte Hornets,San Antonio Spurs,425.0,-600.0,2025-02-06 22:03:21.931521
+NBA,f592f9667df5d2b96f41a71c90cddf39,hardrockbet,Washington Wizards,Cleveland Cavaliers,850.0,-1600.0,2025-02-06 22:03:21.931521
+NBA,9a5a6098686e727ed1ed46d6dfc879ca,hardrockbet,Atlanta Hawks,Milwaukee Bucks,170.0,-220.0,2025-02-06 22:03:21.931521
+NBA,2ee31055f5cc3975abda3f49017b550e,hardrockbet,Brooklyn Nets,Miami Heat,200.0,-275.0,2025-02-06 22:03:21.931521
+NBA,78e03cf799710b90c7e8b9af3bb4d1d1,hardrockbet,Detroit Pistons,Philadelphia 76ers,110.0,-130.0,2025-02-06 22:03:21.931521
+NBA,5c962a5ad947d385ee524f36970a8ce4,hardrockbet,Oklahoma City Thunder,Toronto Raptors,-2000.0,1000.0,2025-02-06 22:03:21.931521
+NBA,984ea4c49b7729eb8269618e77e99b27,hardrockbet,Phoenix Suns,Utah Jazz,-325.0,250.0,2025-02-06 22:03:21.931521
+NBA,8c5dfc09221b32ad1835ce0e5c426454,hardrockbet,Los Angeles Lakers,Dallas Mavericks,,,2025-02-06 22:03:21.931521
+NBA,f880e059bbee7b5b9e4af4d17bcee511,hardrockbet,Sacramento Kings,San Antonio Spurs,,,2025-02-06 22:03:21.931521
+NBA,0e1dde121b5be88b7c95e744d43c877f,hardrockbet,Miami Heat,Golden State Warriors,,,2025-02-06 22:03:21.931521
+NBA,a916ee7696fde8f1a82e214c36a04b9a,betonlineag,Denver Nuggets,Orlando Magic,,,2025-02-06 22:03:21.931521
+NBA,39da2a6da9ab2746b1ff9f320f9f5a14,betonlineag,Los Angeles Lakers,Golden State Warriors,,,2025-02-06 22:03:21.931521
+NBA,b3df91f1d79355a68f8aa279f17e2a3e,betonlineag,Portland Trail Blazers,Sacramento Kings,,,2025-02-06 22:03:21.931521
+NBA,0dd68311a8617606a6956cd6e511fd9e,betonlineag,Los Angeles Clippers,Indiana Pacers,,,2025-02-06 22:03:21.931521
+NBA,c8310e046f80bf6292c633aff61cffdb,betonlineag,Charlotte Hornets,San Antonio Spurs,,,2025-02-06 22:03:21.931521
+NBA,f592f9667df5d2b96f41a71c90cddf39,betonlineag,Washington Wizards,Cleveland Cavaliers,,,2025-02-06 22:03:21.931521
+NBA,9a5a6098686e727ed1ed46d6dfc879ca,betonlineag,Atlanta Hawks,Milwaukee Bucks,,,2025-02-06 22:03:21.931521
+NBA,2ee31055f5cc3975abda3f49017b550e,betonlineag,Brooklyn Nets,Miami Heat,,,2025-02-06 22:03:21.931521
+NBA,78e03cf799710b90c7e8b9af3bb4d1d1,betonlineag,Detroit Pistons,Philadelphia 76ers,,,2025-02-06 22:03:21.931521
+NBA,5c962a5ad947d385ee524f36970a8ce4,betonlineag,Oklahoma City Thunder,Toronto Raptors,,,2025-02-06 22:03:21.931521
+NBA,984ea4c49b7729eb8269618e77e99b27,betonlineag,Phoenix Suns,Utah Jazz,,,2025-02-06 22:03:21.931521
+NBA,8c5dfc09221b32ad1835ce0e5c426454,betonlineag,Los Angeles Lakers,Dallas Mavericks,,,2025-02-06 22:03:21.931521
+NBA,f880e059bbee7b5b9e4af4d17bcee511,betonlineag,Sacramento Kings,San Antonio Spurs,,,2025-02-06 22:03:21.931521
+NBA,0e1dde121b5be88b7c95e744d43c877f,betonlineag,Miami Heat,Golden State Warriors,,,2025-02-06 22:03:21.931521
+NBA,a916ee7696fde8f1a82e214c36a04b9a,espnbet,Denver Nuggets,Orlando Magic,,,2025-02-06 22:03:21.931521
+NBA,39da2a6da9ab2746b1ff9f320f9f5a14,espnbet,Los Angeles Lakers,Golden State Warriors,-5000.0,1500.0,2025-02-06 22:03:21.931521
+NBA,b3df91f1d79355a68f8aa279f17e2a3e,espnbet,Portland Trail Blazers,Sacramento Kings,-180.0,140.0,2025-02-06 22:03:21.931521
+NBA,0dd68311a8617606a6956cd6e511fd9e,espnbet,Los Angeles Clippers,Indiana Pacers,-800.0,475.0,2025-02-06 22:03:21.931521
+NBA,c8310e046f80bf6292c633aff61cffdb,espnbet,Charlotte Hornets,San Antonio Spurs,450.0,-700.0,2025-02-06 22:03:21.931521
+NBA,f592f9667df5d2b96f41a71c90cddf39,espnbet,Washington Wizards,Cleveland Cavaliers,1000.0,-2000.0,2025-02-06 22:03:21.931521
+NBA,9a5a6098686e727ed1ed46d6dfc879ca,espnbet,Atlanta Hawks,Milwaukee Bucks,175.0,-210.0,2025-02-06 22:03:21.931521
+NBA,2ee31055f5cc3975abda3f49017b550e,espnbet,Brooklyn Nets,Miami Heat,225.0,-275.0,2025-02-06 22:03:21.931521
+NBA,78e03cf799710b90c7e8b9af3bb4d1d1,espnbet,Detroit Pistons,Philadelphia 76ers,110.0,-130.0,2025-02-06 22:03:21.931521
+NBA,5c962a5ad947d385ee524f36970a8ce4,espnbet,Oklahoma City Thunder,Toronto Raptors,-2500.0,1100.0,2025-02-06 22:03:21.931521
+NBA,984ea4c49b7729eb8269618e77e99b27,espnbet,Phoenix Suns,Utah Jazz,-300.0,250.0,2025-02-06 22:03:21.931521
+NBA,8c5dfc09221b32ad1835ce0e5c426454,espnbet,Los Angeles Lakers,Dallas Mavericks,-190.0,160.0,2025-02-06 22:03:21.931521
+NBA,f880e059bbee7b5b9e4af4d17bcee511,espnbet,Sacramento Kings,San Antonio Spurs,-130.0,110.0,2025-02-06 22:03:21.931521
+NBA,0e1dde121b5be88b7c95e744d43c877f,espnbet,Miami Heat,Golden State Warriors,,,2025-02-06 22:03:21.931521
+NBA,a916ee7696fde8f1a82e214c36a04b9a,betus,Denver Nuggets,Orlando Magic,,,2025-02-06 22:03:21.931521
+NBA,39da2a6da9ab2746b1ff9f320f9f5a14,betus,Los Angeles Lakers,Golden State Warriors,,,2025-02-06 22:03:21.931521
+NBA,b3df91f1d79355a68f8aa279f17e2a3e,betus,Portland Trail Blazers,Sacramento Kings,,,2025-02-06 22:03:21.931521
+NBA,0dd68311a8617606a6956cd6e511fd9e,betus,Los Angeles Clippers,Indiana Pacers,,,2025-02-06 22:03:21.931521
+NBA,c8310e046f80bf6292c633aff61cffdb,betus,Charlotte Hornets,San Antonio Spurs,,,2025-02-06 22:03:21.931521
+NBA,f592f9667df5d2b96f41a71c90cddf39,betus,Washington Wizards,Cleveland Cavaliers,,,2025-02-06 22:03:21.931521
+NBA,9a5a6098686e727ed1ed46d6dfc879ca,betus,Atlanta Hawks,Milwaukee Bucks,,,2025-02-06 22:03:21.931521
+NBA,2ee31055f5cc3975abda3f49017b550e,betus,Brooklyn Nets,Miami Heat,,,2025-02-06 22:03:21.931521
+NBA,78e03cf799710b90c7e8b9af3bb4d1d1,betus,Detroit Pistons,Philadelphia 76ers,,,2025-02-06 22:03:21.931521
+NBA,5c962a5ad947d385ee524f36970a8ce4,betus,Oklahoma City Thunder,Toronto Raptors,,,2025-02-06 22:03:21.931521
+NBA,984ea4c49b7729eb8269618e77e99b27,betus,Phoenix Suns,Utah Jazz,,,2025-02-06 22:03:21.931521
+NBA,8c5dfc09221b32ad1835ce0e5c426454,betus,Los Angeles Lakers,Dallas Mavericks,,,2025-02-06 22:03:21.931521
+NBA,f880e059bbee7b5b9e4af4d17bcee511,betus,Sacramento Kings,San Antonio Spurs,,,2025-02-06 22:03:21.931521
+NBA,0e1dde121b5be88b7c95e744d43c877f,betus,Miami Heat,Golden State Warriors,,,2025-02-06 22:03:21.931521
+NBA,a916ee7696fde8f1a82e214c36a04b9a,betrivers,Denver Nuggets,Orlando Magic,,,2025-02-06 22:03:21.931521
+NBA,39da2a6da9ab2746b1ff9f320f9f5a14,betrivers,Los Angeles Lakers,Golden State Warriors,,,2025-02-06 22:03:21.931521
+NBA,b3df91f1d79355a68f8aa279f17e2a3e,betrivers,Portland Trail Blazers,Sacramento Kings,-195.0,143.0,2025-02-06 22:03:21.931521
+NBA,0dd68311a8617606a6956cd6e511fd9e,betrivers,Los Angeles Clippers,Indiana Pacers,-835.0,450.0,2025-02-06 22:03:21.931521
+NBA,c8310e046f80bf6292c633aff61cffdb,betrivers,Charlotte Hornets,San Antonio Spurs,,,2025-02-06 22:03:21.931521
+NBA,f592f9667df5d2b96f41a71c90cddf39,betrivers,Washington Wizards,Cleveland Cavaliers,,,2025-02-06 22:03:21.931521
+NBA,9a5a6098686e727ed1ed46d6dfc879ca,betrivers,Atlanta Hawks,Milwaukee Bucks,,,2025-02-06 22:03:21.931521
+NBA,2ee31055f5cc3975abda3f49017b550e,betrivers,Brooklyn Nets,Miami Heat,,,2025-02-06 22:03:21.931521
+NBA,78e03cf799710b90c7e8b9af3bb4d1d1,betrivers,Detroit Pistons,Philadelphia 76ers,,,2025-02-06 22:03:21.931521
+NBA,5c962a5ad947d385ee524f36970a8ce4,betrivers,Oklahoma City Thunder,Toronto Raptors,,,2025-02-06 22:03:21.931521
+NBA,984ea4c49b7729eb8269618e77e99b27,betrivers,Phoenix Suns,Utah Jazz,,,2025-02-06 22:03:21.931521
+NBA,8c5dfc09221b32ad1835ce0e5c426454,betrivers,Los Angeles Lakers,Dallas Mavericks,,,2025-02-06 22:03:21.931521
+NBA,f880e059bbee7b5b9e4af4d17bcee511,betrivers,Sacramento Kings,San Antonio Spurs,,,2025-02-06 22:03:21.931521
+NBA,0e1dde121b5be88b7c95e744d43c877f,betrivers,Miami Heat,Golden State Warriors,,,2025-02-06 22:03:21.931521
+NBA,a916ee7696fde8f1a82e214c36a04b9a,ballybet,Denver Nuggets,Orlando Magic,,,2025-02-06 22:03:21.931521
+NBA,39da2a6da9ab2746b1ff9f320f9f5a14,ballybet,Los Angeles Lakers,Golden State Warriors,,,2025-02-06 22:03:21.931521
+NBA,b3df91f1d79355a68f8aa279f17e2a3e,ballybet,Portland Trail Blazers,Sacramento Kings,-186.0,148.0,2025-02-06 22:03:21.931521
+NBA,0dd68311a8617606a6956cd6e511fd9e,ballybet,Los Angeles Clippers,Indiana Pacers,-770.0,500.0,2025-02-06 22:03:21.931521
+NBA,c8310e046f80bf6292c633aff61cffdb,ballybet,Charlotte Hornets,San Antonio Spurs,,,2025-02-06 22:03:21.931521
+NBA,f592f9667df5d2b96f41a71c90cddf39,ballybet,Washington Wizards,Cleveland Cavaliers,,,2025-02-06 22:03:21.931521
+NBA,9a5a6098686e727ed1ed46d6dfc879ca,ballybet,Atlanta Hawks,Milwaukee Bucks,,,2025-02-06 22:03:21.931521
+NBA,2ee31055f5cc3975abda3f49017b550e,ballybet,Brooklyn Nets,Miami Heat,,,2025-02-06 22:03:21.931521
+NBA,78e03cf799710b90c7e8b9af3bb4d1d1,ballybet,Detroit Pistons,Philadelphia 76ers,,,2025-02-06 22:03:21.931521
+NBA,5c962a5ad947d385ee524f36970a8ce4,ballybet,Oklahoma City Thunder,Toronto Raptors,,,2025-02-06 22:03:21.931521
+NBA,984ea4c49b7729eb8269618e77e99b27,ballybet,Phoenix Suns,Utah Jazz,,,2025-02-06 22:03:21.931521
+NBA,8c5dfc09221b32ad1835ce0e5c426454,ballybet,Los Angeles Lakers,Dallas Mavericks,,,2025-02-06 22:03:21.931521
+NBA,f880e059bbee7b5b9e4af4d17bcee511,ballybet,Sacramento Kings,San Antonio Spurs,,,2025-02-06 22:03:21.931521
+NBA,0e1dde121b5be88b7c95e744d43c877f,ballybet,Miami Heat,Golden State Warriors,,,2025-02-06 22:03:21.931521
+NCAAB,d9f90ffa800147a5b71c578a124cd22f,betmgm,Utah Tech Trailblazers,Abilene Christian Wildcats,,,2025-02-06 22:03:22.218807
+NCAAB,9d25c1fc86a0e3699261ca0f883d04f4,betmgm,Tenn-Martin Skyhawks,Lindenwood Lions,,,2025-02-06 22:03:22.218807
+NCAAB,c6962db1d2054fb2f64c034f4122b9b0,betmgm,Gonzaga Bulldogs,Loyola Marymount Lions,,,2025-02-06 22:03:22.218807
+NCAAB,ce1ec61e7cca36f6536c8da39bfa9a43,betmgm,Eastern Washington Eagles,Sacramento St Hornets,-2000.0,850.0,2025-02-06 22:03:22.218807
+NCAAB,a8a955d9e27e412901e2879f7b83afd1,betmgm,Denver Pioneers,South Dakota Coyotes,3300.0,-10000.0,2025-02-06 22:03:22.218807
+NCAAB,457ecb627b559c09c6ff167c2456e49c,betmgm,UNC Asheville Bulldogs,Gardner-Webb Bulldogs,-10000.0,3300.0,2025-02-06 22:03:22.218807
+NCAAB,77a0689fa63576f4472864f1668c2760,betmgm,San Francisco Dons,Saint Mary's Gaels,-235.0,185.0,2025-02-06 22:03:22.218807
+NCAAB,a0f644a17c835d9b6f9e602042670dca,betmgm,CSU Bakersfield Roadrunners,UC Santa Barbara Gauchos,625.0,-1100.0,2025-02-06 22:03:22.218807
+NCAAB,af0aa676fc80b99e1dd4578087952efa,betmgm,Pacific Tigers,San Diego Toreros,-120.0,-102.0,2025-02-06 22:03:22.218807
+NCAAB,18da51245b432dc473891eee8d67e7ad,betmgm,Seattle Redhawks,Tarleton State Texans,-10000.0,1850.0,2025-02-06 22:03:22.218807
+NCAAB,a5b005b38b8e289f8a3b2b5310fa5f0e,betmgm,Cal Poly Mustangs,Hawai'i Rainbow Warriors,-120.0,-102.0,2025-02-06 22:03:22.218807
+NCAAB,035fd833bb584ebe20149559ba67c041,betmgm,CSU Northridge Matadors,CSU Fullerton Titans,-10000.0,2200.0,2025-02-06 22:03:22.218807
+NCAAB,84313ea8d2ff7e8e6836073dd4d2a318,betmgm,UC San Diego Tritons,UC Riverside Highlanders,-650.0,450.0,2025-02-06 22:03:22.218807
+NCAAB,ff2aabf65bba23e1e33df069f354c07c,betmgm,Long Beach St 49ers,UC Davis Aggies,110.0,-140.0,2025-02-06 22:03:22.218807
+NCAAB,ed56898315b4b626638775ad4bce187b,betmgm,Portland Pilots,Santa Clara Broncos,1300.0,-5000.0,2025-02-06 22:03:22.218807
+NCAAB,6c74299ec226ef6af381c081e8023341,betmgm,Cal Baptist Lancers,Southern Utah Thunderbirds,-210.0,165.0,2025-02-06 22:03:22.218807
+NCAAB,faacbed24080f5b7f3e9a746a229a58e,betmgm,Tennessee Tech Golden Eagles,SIU-Edwardsville Cougars,340.0,-475.0,2025-02-06 22:03:22.218807
+NCAAB,7fec38717762065f5614261404888f04,betmgm,Oregon St Beavers,Washington St Cougars,-250.0,200.0,2025-02-06 22:03:22.218807
+NCAAB,594809e71a2a1c1beb3ad1cd406d70ec,betmgm,Dayton Flyers,VCU Rams,110.0,-135.0,2025-02-06 22:03:22.218807
+NCAAB,cf615e2c869e2c64b01f158665b11f50,betmgm,Pennsylvania Quakers,Princeton Tigers,260.0,-325.0,2025-02-06 22:03:22.218807
+NCAAB,2d0123ebbafe3fab20ed38d78368d3e2,betmgm,Purdue Boilermakers,USC Trojans,-1000.0,650.0,2025-02-06 22:03:22.218807
+NCAAB,c1ac9e5a13e4fc4736da7c098b59df12,betmgm,UConn Huskies,St. John's Red Storm,-145.0,118.0,2025-02-06 22:03:22.218807
+NCAAB,efeb146e101201006d7d7f9618424b20,betmgm,Boise State Broncos,San José St Spartans,-1000.0,650.0,2025-02-06 22:03:22.218807
+NCAAB,1e87e39951b9e3d34caf54ef53ec6a98,betmgm,Saint Joseph's Hawks,Saint Louis Billikens,-235.0,195.0,2025-02-06 22:03:22.218807
+NCAAB,1ddf39195e1b0c9e3aa07b0076da62d6,betmgm,Fresno St Bulldogs,Utah State Aggies,550.0,-800.0,2025-02-06 22:03:22.218807
+NCAAB,b4a08ed398e9c0d72468a7154d6e70ce,betmgm,Kansas St Wildcats,Kansas Jayhawks,,,2025-02-06 22:03:22.218807
+NCAAB,47d2c8c50c01497753114dc72588d841,betmgm,Auburn Tigers,Florida Gators,,,2025-02-06 22:03:22.218807
+NCAAB,677cc4c66e4d0d55a76cb6faba6e795a,betmgm,Clemson Tigers,Duke Blue Devils,,,2025-02-06 22:03:22.218807
+NCAAB,d9f90ffa800147a5b71c578a124cd22f,fliff,Utah Tech Trailblazers,Abilene Christian Wildcats,,,2025-02-06 22:03:22.218807
+NCAAB,9d25c1fc86a0e3699261ca0f883d04f4,fliff,Tenn-Martin Skyhawks,Lindenwood Lions,-255.0,185.0,2025-02-06 22:03:22.218807
+NCAAB,c6962db1d2054fb2f64c034f4122b9b0,fliff,Gonzaga Bulldogs,Loyola Marymount Lions,,,2025-02-06 22:03:22.218807
+NCAAB,ce1ec61e7cca36f6536c8da39bfa9a43,fliff,Eastern Washington Eagles,Sacramento St Hornets,-290.0,190.0,2025-02-06 22:03:22.218807
+NCAAB,a8a955d9e27e412901e2879f7b83afd1,fliff,Denver Pioneers,South Dakota Coyotes,925.0,-3495.0,2025-02-06 22:03:22.218807
+NCAAB,457ecb627b559c09c6ff167c2456e49c,fliff,UNC Asheville Bulldogs,Gardner-Webb Bulldogs,,,2025-02-06 22:03:22.218807
+NCAAB,77a0689fa63576f4472864f1668c2760,fliff,San Francisco Dons,Saint Mary's Gaels,-430.0,290.0,2025-02-06 22:03:22.218807
+NCAAB,a0f644a17c835d9b6f9e602042670dca,fliff,CSU Bakersfield Roadrunners,UC Santa Barbara Gauchos,625.0,-1370.0,2025-02-06 22:03:22.218807
+NCAAB,af0aa676fc80b99e1dd4578087952efa,fliff,Pacific Tigers,San Diego Toreros,,,2025-02-06 22:03:22.218807
+NCAAB,18da51245b432dc473891eee8d67e7ad,fliff,Seattle Redhawks,Tarleton State Texans,,,2025-02-06 22:03:22.218807
+NCAAB,a5b005b38b8e289f8a3b2b5310fa5f0e,fliff,Cal Poly Mustangs,Hawai'i Rainbow Warriors,105.0,-140.0,2025-02-06 22:03:22.218807
+NCAAB,035fd833bb584ebe20149559ba67c041,fliff,CSU Northridge Matadors,CSU Fullerton Titans,,,2025-02-06 22:03:22.218807
+NCAAB,84313ea8d2ff7e8e6836073dd4d2a318,fliff,UC San Diego Tritons,UC Riverside Highlanders,,,2025-02-06 22:03:22.218807
+NCAAB,ff2aabf65bba23e1e33df069f354c07c,fliff,Long Beach St 49ers,UC Davis Aggies,105.0,-140.0,2025-02-06 22:03:22.218807
+NCAAB,ed56898315b4b626638775ad4bce187b,fliff,Portland Pilots,Santa Clara Broncos,,,2025-02-06 22:03:22.218807
+NCAAB,6c74299ec226ef6af381c081e8023341,fliff,Cal Baptist Lancers,Southern Utah Thunderbirds,-235.0,165.0,2025-02-06 22:03:22.218807
+NCAAB,faacbed24080f5b7f3e9a746a229a58e,fliff,Tennessee Tech Golden Eagles,SIU-Edwardsville Cougars,270.0,-395.0,2025-02-06 22:03:22.218807
+NCAAB,7fec38717762065f5614261404888f04,fliff,Oregon St Beavers,Washington St Cougars,-280.0,200.0,2025-02-06 22:03:22.218807
+NCAAB,594809e71a2a1c1beb3ad1cd406d70ec,fliff,Dayton Flyers,VCU Rams,105.0,-145.0,2025-02-06 22:03:22.218807
+NCAAB,cf615e2c869e2c64b01f158665b11f50,fliff,Pennsylvania Quakers,Princeton Tigers,245.0,-360.0,2025-02-06 22:03:22.218807
+NCAAB,2d0123ebbafe3fab20ed38d78368d3e2,fliff,Purdue Boilermakers,USC Trojans,-1355.0,620.0,2025-02-06 22:03:22.218807
+NCAAB,c1ac9e5a13e4fc4736da7c098b59df12,fliff,UConn Huskies,St. John's Red Storm,-145.0,110.0,2025-02-06 22:03:22.218807
+NCAAB,efeb146e101201006d7d7f9618424b20,fliff,Boise State Broncos,San José St Spartans,-1295.0,605.0,2025-02-06 22:03:22.218807
+NCAAB,1e87e39951b9e3d34caf54ef53ec6a98,fliff,Saint Joseph's Hawks,Saint Louis Billikens,-260.0,185.0,2025-02-06 22:03:22.218807
+NCAAB,1ddf39195e1b0c9e3aa07b0076da62d6,fliff,Fresno St Bulldogs,Utah State Aggies,520.0,-1000.0,2025-02-06 22:03:22.218807
+NCAAB,b4a08ed398e9c0d72468a7154d6e70ce,fliff,Kansas St Wildcats,Kansas Jayhawks,,,2025-02-06 22:03:22.218807
+NCAAB,47d2c8c50c01497753114dc72588d841,fliff,Auburn Tigers,Florida Gators,,,2025-02-06 22:03:22.218807
+NCAAB,677cc4c66e4d0d55a76cb6faba6e795a,fliff,Clemson Tigers,Duke Blue Devils,,,2025-02-06 22:03:22.218807
+NCAAB,d9f90ffa800147a5b71c578a124cd22f,bovada,Utah Tech Trailblazers,Abilene Christian Wildcats,,,2025-02-06 22:03:22.218807
+NCAAB,9d25c1fc86a0e3699261ca0f883d04f4,bovada,Tenn-Martin Skyhawks,Lindenwood Lions,,,2025-02-06 22:03:22.218807
+NCAAB,c6962db1d2054fb2f64c034f4122b9b0,bovada,Gonzaga Bulldogs,Loyola Marymount Lions,,,2025-02-06 22:03:22.218807
+NCAAB,ce1ec61e7cca36f6536c8da39bfa9a43,bovada,Eastern Washington Eagles,Sacramento St Hornets,-1000.0,550.0,2025-02-06 22:03:22.218807
+NCAAB,a8a955d9e27e412901e2879f7b83afd1,bovada,Denver Pioneers,South Dakota Coyotes,,,2025-02-06 22:03:22.218807
+NCAAB,457ecb627b559c09c6ff167c2456e49c,bovada,UNC Asheville Bulldogs,Gardner-Webb Bulldogs,,,2025-02-06 22:03:22.218807
+NCAAB,77a0689fa63576f4472864f1668c2760,bovada,San Francisco Dons,Saint Mary's Gaels,-175.0,135.0,2025-02-06 22:03:22.218807
+NCAAB,a0f644a17c835d9b6f9e602042670dca,bovada,CSU Bakersfield Roadrunners,UC Santa Barbara Gauchos,750.0,-1600.0,2025-02-06 22:03:22.218807
+NCAAB,af0aa676fc80b99e1dd4578087952efa,bovada,Pacific Tigers,San Diego Toreros,-120.0,-110.0,2025-02-06 22:03:22.218807
+NCAAB,18da51245b432dc473891eee8d67e7ad,bovada,Seattle Redhawks,Tarleton State Texans,,,2025-02-06 22:03:22.218807
+NCAAB,a5b005b38b8e289f8a3b2b5310fa5f0e,bovada,Cal Poly Mustangs,Hawai'i Rainbow Warriors,-110.0,-120.0,2025-02-06 22:03:22.218807
+NCAAB,035fd833bb584ebe20149559ba67c041,bovada,CSU Northridge Matadors,CSU Fullerton Titans,,,2025-02-06 22:03:22.218807
+NCAAB,84313ea8d2ff7e8e6836073dd4d2a318,bovada,UC San Diego Tritons,UC Riverside Highlanders,-800.0,475.0,2025-02-06 22:03:22.218807
+NCAAB,ff2aabf65bba23e1e33df069f354c07c,bovada,Long Beach St 49ers,UC Davis Aggies,100.0,-130.0,2025-02-06 22:03:22.218807
+NCAAB,ed56898315b4b626638775ad4bce187b,bovada,Portland Pilots,Santa Clara Broncos,,,2025-02-06 22:03:22.218807
+NCAAB,6c74299ec226ef6af381c081e8023341,bovada,Cal Baptist Lancers,Southern Utah Thunderbirds,-225.0,170.0,2025-02-06 22:03:22.218807
+NCAAB,faacbed24080f5b7f3e9a746a229a58e,bovada,Tennessee Tech Golden Eagles,SIU-Edwardsville Cougars,,,2025-02-06 22:03:22.218807
+NCAAB,7fec38717762065f5614261404888f04,bovada,Oregon St Beavers,Washington St Cougars,-275.0,225.0,2025-02-06 22:03:22.218807
+NCAAB,594809e71a2a1c1beb3ad1cd406d70ec,bovada,Dayton Flyers,VCU Rams,,,2025-02-06 22:03:22.218807
+NCAAB,cf615e2c869e2c64b01f158665b11f50,bovada,Pennsylvania Quakers,Princeton Tigers,,,2025-02-06 22:03:22.218807
+NCAAB,2d0123ebbafe3fab20ed38d78368d3e2,bovada,Purdue Boilermakers,USC Trojans,,,2025-02-06 22:03:22.218807
+NCAAB,c1ac9e5a13e4fc4736da7c098b59df12,bovada,UConn Huskies,St. John's Red Storm,,,2025-02-06 22:03:22.218807
+NCAAB,efeb146e101201006d7d7f9618424b20,bovada,Boise State Broncos,San José St Spartans,,,2025-02-06 22:03:22.218807
+NCAAB,1e87e39951b9e3d34caf54ef53ec6a98,bovada,Saint Joseph's Hawks,Saint Louis Billikens,,,2025-02-06 22:03:22.218807
+NCAAB,1ddf39195e1b0c9e3aa07b0076da62d6,bovada,Fresno St Bulldogs,Utah State Aggies,,,2025-02-06 22:03:22.218807
+NCAAB,b4a08ed398e9c0d72468a7154d6e70ce,bovada,Kansas St Wildcats,Kansas Jayhawks,,,2025-02-06 22:03:22.218807
+NCAAB,47d2c8c50c01497753114dc72588d841,bovada,Auburn Tigers,Florida Gators,,,2025-02-06 22:03:22.218807
+NCAAB,677cc4c66e4d0d55a76cb6faba6e795a,bovada,Clemson Tigers,Duke Blue Devils,,,2025-02-06 22:03:22.218807
+NCAAB,d9f90ffa800147a5b71c578a124cd22f,draftkings,Utah Tech Trailblazers,Abilene Christian Wildcats,,,2025-02-06 22:03:22.218807
+NCAAB,9d25c1fc86a0e3699261ca0f883d04f4,draftkings,Tenn-Martin Skyhawks,Lindenwood Lions,210.0,-280.0,2025-02-06 22:03:22.218807
+NCAAB,c6962db1d2054fb2f64c034f4122b9b0,draftkings,Gonzaga Bulldogs,Loyola Marymount Lions,,,2025-02-06 22:03:22.218807
+NCAAB,ce1ec61e7cca36f6536c8da39bfa9a43,draftkings,Eastern Washington Eagles,Sacramento St Hornets,-4000.0,1500.0,2025-02-06 22:03:22.218807
+NCAAB,a8a955d9e27e412901e2879f7b83afd1,draftkings,Denver Pioneers,South Dakota Coyotes,,,2025-02-06 22:03:22.218807
+NCAAB,457ecb627b559c09c6ff167c2456e49c,draftkings,UNC Asheville Bulldogs,Gardner-Webb Bulldogs,,,2025-02-06 22:03:22.218807
+NCAAB,77a0689fa63576f4472864f1668c2760,draftkings,San Francisco Dons,Saint Mary's Gaels,-920.0,550.0,2025-02-06 22:03:22.218807
+NCAAB,a0f644a17c835d9b6f9e602042670dca,draftkings,CSU Bakersfield Roadrunners,UC Santa Barbara Gauchos,900.0,-1850.0,2025-02-06 22:03:22.218807
+NCAAB,af0aa676fc80b99e1dd4578087952efa,draftkings,Pacific Tigers,San Diego Toreros,-115.0,-115.0,2025-02-06 22:03:22.218807
+NCAAB,18da51245b432dc473891eee8d67e7ad,draftkings,Seattle Redhawks,Tarleton State Texans,-20000.0,3000.0,2025-02-06 22:03:22.218807
+NCAAB,a5b005b38b8e289f8a3b2b5310fa5f0e,draftkings,Cal Poly Mustangs,Hawai'i Rainbow Warriors,-125.0,-105.0,2025-02-06 22:03:22.218807
+NCAAB,035fd833bb584ebe20149559ba67c041,draftkings,CSU Northridge Matadors,CSU Fullerton Titans,-100000.0,4000.0,2025-02-06 22:03:22.218807
+NCAAB,84313ea8d2ff7e8e6836073dd4d2a318,draftkings,UC San Diego Tritons,UC Riverside Highlanders,-620.0,400.0,2025-02-06 22:03:22.218807
+NCAAB,ff2aabf65bba23e1e33df069f354c07c,draftkings,Long Beach St 49ers,UC Davis Aggies,110.0,-140.0,2025-02-06 22:03:22.218807
+NCAAB,ed56898315b4b626638775ad4bce187b,draftkings,Portland Pilots,Santa Clara Broncos,2200.0,-10000.0,2025-02-06 22:03:22.218807
+NCAAB,6c74299ec226ef6af381c081e8023341,draftkings,Cal Baptist Lancers,Southern Utah Thunderbirds,-210.0,160.0,2025-02-06 22:03:22.218807
+NCAAB,faacbed24080f5b7f3e9a746a229a58e,draftkings,Tennessee Tech Golden Eagles,SIU-Edwardsville Cougars,575.0,-950.0,2025-02-06 22:03:22.218807
+NCAAB,7fec38717762065f5614261404888f04,draftkings,Oregon St Beavers,Washington St Cougars,-265.0,215.0,2025-02-06 22:03:22.218807
+NCAAB,594809e71a2a1c1beb3ad1cd406d70ec,draftkings,Dayton Flyers,VCU Rams,114.0,-135.0,2025-02-06 22:03:22.218807
+NCAAB,cf615e2c869e2c64b01f158665b11f50,draftkings,Pennsylvania Quakers,Princeton Tigers,260.0,-325.0,2025-02-06 22:03:22.218807
+NCAAB,2d0123ebbafe3fab20ed38d78368d3e2,draftkings,Purdue Boilermakers,USC Trojans,-1000.0,650.0,2025-02-06 22:03:22.218807
+NCAAB,c1ac9e5a13e4fc4736da7c098b59df12,draftkings,UConn Huskies,St. John's Red Storm,-135.0,114.0,2025-02-06 22:03:22.218807
+NCAAB,efeb146e101201006d7d7f9618424b20,draftkings,Boise State Broncos,San José St Spartans,-900.0,600.0,2025-02-06 22:03:22.218807
+NCAAB,1e87e39951b9e3d34caf54ef53ec6a98,draftkings,Saint Joseph's Hawks,Saint Louis Billikens,-238.0,195.0,2025-02-06 22:03:22.218807
+NCAAB,1ddf39195e1b0c9e3aa07b0076da62d6,draftkings,Fresno St Bulldogs,Utah State Aggies,500.0,-700.0,2025-02-06 22:03:22.218807
+NCAAB,b4a08ed398e9c0d72468a7154d6e70ce,draftkings,Kansas St Wildcats,Kansas Jayhawks,,,2025-02-06 22:03:22.218807
+NCAAB,47d2c8c50c01497753114dc72588d841,draftkings,Auburn Tigers,Florida Gators,,,2025-02-06 22:03:22.218807
+NCAAB,677cc4c66e4d0d55a76cb6faba6e795a,draftkings,Clemson Tigers,Duke Blue Devils,,,2025-02-06 22:03:22.218807
+NCAAB,d9f90ffa800147a5b71c578a124cd22f,fanduel,Utah Tech Trailblazers,Abilene Christian Wildcats,,,2025-02-06 22:03:22.218807
+NCAAB,9d25c1fc86a0e3699261ca0f883d04f4,fanduel,Tenn-Martin Skyhawks,Lindenwood Lions,,,2025-02-06 22:03:22.218807
+NCAAB,c6962db1d2054fb2f64c034f4122b9b0,fanduel,Gonzaga Bulldogs,Loyola Marymount Lions,,,2025-02-06 22:03:22.218807
+NCAAB,ce1ec61e7cca36f6536c8da39bfa9a43,fanduel,Eastern Washington Eagles,Sacramento St Hornets,-220.0,168.0,2025-02-06 22:03:22.218807
+NCAAB,a8a955d9e27e412901e2879f7b83afd1,fanduel,Denver Pioneers,South Dakota Coyotes,1300.0,-5000.0,2025-02-06 22:03:22.218807
+NCAAB,457ecb627b559c09c6ff167c2456e49c,fanduel,UNC Asheville Bulldogs,Gardner-Webb Bulldogs,,,2025-02-06 22:03:22.218807
+NCAAB,77a0689fa63576f4472864f1668c2760,fanduel,San Francisco Dons,Saint Mary's Gaels,-205.0,154.0,2025-02-06 22:03:22.218807
+NCAAB,a0f644a17c835d9b6f9e602042670dca,fanduel,CSU Bakersfield Roadrunners,UC Santa Barbara Gauchos,450.0,-720.0,2025-02-06 22:03:22.218807
+NCAAB,af0aa676fc80b99e1dd4578087952efa,fanduel,Pacific Tigers,San Diego Toreros,-138.0,108.0,2025-02-06 22:03:22.218807
+NCAAB,18da51245b432dc473891eee8d67e7ad,fanduel,Seattle Redhawks,Tarleton State Texans,-20000.0,2000.0,2025-02-06 22:03:22.218807
+NCAAB,a5b005b38b8e289f8a3b2b5310fa5f0e,fanduel,Cal Poly Mustangs,Hawai'i Rainbow Warriors,116.0,-148.0,2025-02-06 22:03:22.218807
+NCAAB,035fd833bb584ebe20149559ba67c041,fanduel,CSU Northridge Matadors,CSU Fullerton Titans,-20000.0,2500.0,2025-02-06 22:03:22.218807
+NCAAB,84313ea8d2ff7e8e6836073dd4d2a318,fanduel,UC San Diego Tritons,UC Riverside Highlanders,-800.0,480.0,2025-02-06 22:03:22.218807
+NCAAB,ff2aabf65bba23e1e33df069f354c07c,fanduel,Long Beach St 49ers,UC Davis Aggies,110.0,-140.0,2025-02-06 22:03:22.218807
+NCAAB,ed56898315b4b626638775ad4bce187b,fanduel,Portland Pilots,Santa Clara Broncos,1500.0,-7000.0,2025-02-06 22:03:22.218807
+NCAAB,6c74299ec226ef6af381c081e8023341,fanduel,Cal Baptist Lancers,Southern Utah Thunderbirds,-210.0,162.0,2025-02-06 22:03:22.218807
+NCAAB,faacbed24080f5b7f3e9a746a229a58e,fanduel,Tennessee Tech Golden Eagles,SIU-Edwardsville Cougars,240.0,-330.0,2025-02-06 22:03:22.218807
+NCAAB,7fec38717762065f5614261404888f04,fanduel,Oregon St Beavers,Washington St Cougars,-255.0,205.0,2025-02-06 22:03:22.218807
+NCAAB,594809e71a2a1c1beb3ad1cd406d70ec,fanduel,Dayton Flyers,VCU Rams,-102.0,-118.0,2025-02-06 22:03:22.218807
+NCAAB,cf615e2c869e2c64b01f158665b11f50,fanduel,Pennsylvania Quakers,Princeton Tigers,240.0,-300.0,2025-02-06 22:03:22.218807
+NCAAB,2d0123ebbafe3fab20ed38d78368d3e2,fanduel,Purdue Boilermakers,USC Trojans,-1000.0,640.0,2025-02-06 22:03:22.218807
+NCAAB,c1ac9e5a13e4fc4736da7c098b59df12,fanduel,UConn Huskies,St. John's Red Storm,-137.0,114.0,2025-02-06 22:03:22.218807
+NCAAB,efeb146e101201006d7d7f9618424b20,fanduel,Boise State Broncos,San José St Spartans,-1250.0,740.0,2025-02-06 22:03:22.218807
+NCAAB,1e87e39951b9e3d34caf54ef53ec6a98,fanduel,Saint Joseph's Hawks,Saint Louis Billikens,-235.0,190.0,2025-02-06 22:03:22.218807
+NCAAB,1ddf39195e1b0c9e3aa07b0076da62d6,fanduel,Fresno St Bulldogs,Utah State Aggies,680.0,-1100.0,2025-02-06 22:03:22.218807
+NCAAB,b4a08ed398e9c0d72468a7154d6e70ce,fanduel,Kansas St Wildcats,Kansas Jayhawks,162.0,-196.0,2025-02-06 22:03:22.218807
+NCAAB,47d2c8c50c01497753114dc72588d841,fanduel,Auburn Tigers,Florida Gators,-465.0,340.0,2025-02-06 22:03:22.218807
+NCAAB,677cc4c66e4d0d55a76cb6faba6e795a,fanduel,Clemson Tigers,Duke Blue Devils,235.0,-295.0,2025-02-06 22:03:22.218807
+NCAAB,d9f90ffa800147a5b71c578a124cd22f,hardrockbet,Utah Tech Trailblazers,Abilene Christian Wildcats,,,2025-02-06 22:03:22.218807
+NCAAB,9d25c1fc86a0e3699261ca0f883d04f4,hardrockbet,Tenn-Martin Skyhawks,Lindenwood Lions,,,2025-02-06 22:03:22.218807
+NCAAB,c6962db1d2054fb2f64c034f4122b9b0,hardrockbet,Gonzaga Bulldogs,Loyola Marymount Lions,,,2025-02-06 22:03:22.218807
+NCAAB,ce1ec61e7cca36f6536c8da39bfa9a43,hardrockbet,Eastern Washington Eagles,Sacramento St Hornets,-350.0,225.0,2025-02-06 22:03:22.218807
+NCAAB,a8a955d9e27e412901e2879f7b83afd1,hardrockbet,Denver Pioneers,South Dakota Coyotes,,,2025-02-06 22:03:22.218807
+NCAAB,457ecb627b559c09c6ff167c2456e49c,hardrockbet,UNC Asheville Bulldogs,Gardner-Webb Bulldogs,,,2025-02-06 22:03:22.218807
+NCAAB,77a0689fa63576f4472864f1668c2760,hardrockbet,San Francisco Dons,Saint Mary's Gaels,-170.0,120.0,2025-02-06 22:03:22.218807
+NCAAB,a0f644a17c835d9b6f9e602042670dca,hardrockbet,CSU Bakersfield Roadrunners,UC Santa Barbara Gauchos,700.0,-2000.0,2025-02-06 22:03:22.218807
+NCAAB,af0aa676fc80b99e1dd4578087952efa,hardrockbet,Pacific Tigers,San Diego Toreros,-125.0,-105.0,2025-02-06 22:03:22.218807
+NCAAB,18da51245b432dc473891eee8d67e7ad,hardrockbet,Seattle Redhawks,Tarleton State Texans,,,2025-02-06 22:03:22.218807
+NCAAB,a5b005b38b8e289f8a3b2b5310fa5f0e,hardrockbet,Cal Poly Mustangs,Hawai'i Rainbow Warriors,-110.0,-120.0,2025-02-06 22:03:22.218807
+NCAAB,035fd833bb584ebe20149559ba67c041,hardrockbet,CSU Northridge Matadors,CSU Fullerton Titans,,,2025-02-06 22:03:22.218807
+NCAAB,84313ea8d2ff7e8e6836073dd4d2a318,hardrockbet,UC San Diego Tritons,UC Riverside Highlanders,-750.0,450.0,2025-02-06 22:03:22.218807
+NCAAB,ff2aabf65bba23e1e33df069f354c07c,hardrockbet,Long Beach St 49ers,UC Davis Aggies,105.0,-135.0,2025-02-06 22:03:22.218807
+NCAAB,ed56898315b4b626638775ad4bce187b,hardrockbet,Portland Pilots,Santa Clara Broncos,1100.0,-10000.0,2025-02-06 22:03:22.218807
+NCAAB,6c74299ec226ef6af381c081e8023341,hardrockbet,Cal Baptist Lancers,Southern Utah Thunderbirds,-210.0,155.0,2025-02-06 22:03:22.218807
+NCAAB,faacbed24080f5b7f3e9a746a229a58e,hardrockbet,Tennessee Tech Golden Eagles,SIU-Edwardsville Cougars,170.0,-225.0,2025-02-06 22:03:22.218807
+NCAAB,7fec38717762065f5614261404888f04,hardrockbet,Oregon St Beavers,Washington St Cougars,-275.0,200.0,2025-02-06 22:03:22.218807
+NCAAB,594809e71a2a1c1beb3ad1cd406d70ec,hardrockbet,Dayton Flyers,VCU Rams,100.0,-130.0,2025-02-06 22:03:22.218807
+NCAAB,cf615e2c869e2c64b01f158665b11f50,hardrockbet,Pennsylvania Quakers,Princeton Tigers,240.0,-350.0,2025-02-06 22:03:22.218807
+NCAAB,2d0123ebbafe3fab20ed38d78368d3e2,hardrockbet,Purdue Boilermakers,USC Trojans,-1100.0,575.0,2025-02-06 22:03:22.218807
+NCAAB,c1ac9e5a13e4fc4736da7c098b59df12,hardrockbet,UConn Huskies,St. John's Red Storm,-140.0,110.0,2025-02-06 22:03:22.218807
+NCAAB,efeb146e101201006d7d7f9618424b20,hardrockbet,Boise State Broncos,San José St Spartans,-1100.0,575.0,2025-02-06 22:03:22.218807
+NCAAB,1e87e39951b9e3d34caf54ef53ec6a98,hardrockbet,Saint Joseph's Hawks,Saint Louis Billikens,-250.0,180.0,2025-02-06 22:03:22.218807
+NCAAB,1ddf39195e1b0c9e3aa07b0076da62d6,hardrockbet,Fresno St Bulldogs,Utah State Aggies,525.0,-900.0,2025-02-06 22:03:22.218807
+NCAAB,b4a08ed398e9c0d72468a7154d6e70ce,hardrockbet,Kansas St Wildcats,Kansas Jayhawks,,,2025-02-06 22:03:22.218807
+NCAAB,47d2c8c50c01497753114dc72588d841,hardrockbet,Auburn Tigers,Florida Gators,,,2025-02-06 22:03:22.218807
+NCAAB,677cc4c66e4d0d55a76cb6faba6e795a,hardrockbet,Clemson Tigers,Duke Blue Devils,,,2025-02-06 22:03:22.218807
+NCAAB,d9f90ffa800147a5b71c578a124cd22f,betonlineag,Utah Tech Trailblazers,Abilene Christian Wildcats,,,2025-02-06 22:03:22.218807
+NCAAB,9d25c1fc86a0e3699261ca0f883d04f4,betonlineag,Tenn-Martin Skyhawks,Lindenwood Lions,,,2025-02-06 22:03:22.218807
+NCAAB,c6962db1d2054fb2f64c034f4122b9b0,betonlineag,Gonzaga Bulldogs,Loyola Marymount Lions,,,2025-02-06 22:03:22.218807
+NCAAB,ce1ec61e7cca36f6536c8da39bfa9a43,betonlineag,Eastern Washington Eagles,Sacramento St Hornets,,,2025-02-06 22:03:22.218807
+NCAAB,a8a955d9e27e412901e2879f7b83afd1,betonlineag,Denver Pioneers,South Dakota Coyotes,,,2025-02-06 22:03:22.218807
+NCAAB,457ecb627b559c09c6ff167c2456e49c,betonlineag,UNC Asheville Bulldogs,Gardner-Webb Bulldogs,,,2025-02-06 22:03:22.218807
+NCAAB,77a0689fa63576f4472864f1668c2760,betonlineag,San Francisco Dons,Saint Mary's Gaels,,,2025-02-06 22:03:22.218807
+NCAAB,a0f644a17c835d9b6f9e602042670dca,betonlineag,CSU Bakersfield Roadrunners,UC Santa Barbara Gauchos,,,2025-02-06 22:03:22.218807
+NCAAB,af0aa676fc80b99e1dd4578087952efa,betonlineag,Pacific Tigers,San Diego Toreros,,,2025-02-06 22:03:22.218807
+NCAAB,18da51245b432dc473891eee8d67e7ad,betonlineag,Seattle Redhawks,Tarleton State Texans,,,2025-02-06 22:03:22.218807
+NCAAB,a5b005b38b8e289f8a3b2b5310fa5f0e,betonlineag,Cal Poly Mustangs,Hawai'i Rainbow Warriors,,,2025-02-06 22:03:22.218807
+NCAAB,035fd833bb584ebe20149559ba67c041,betonlineag,CSU Northridge Matadors,CSU Fullerton Titans,,,2025-02-06 22:03:22.218807
+NCAAB,84313ea8d2ff7e8e6836073dd4d2a318,betonlineag,UC San Diego Tritons,UC Riverside Highlanders,,,2025-02-06 22:03:22.218807
+NCAAB,ff2aabf65bba23e1e33df069f354c07c,betonlineag,Long Beach St 49ers,UC Davis Aggies,,,2025-02-06 22:03:22.218807
+NCAAB,ed56898315b4b626638775ad4bce187b,betonlineag,Portland Pilots,Santa Clara Broncos,,,2025-02-06 22:03:22.218807
+NCAAB,6c74299ec226ef6af381c081e8023341,betonlineag,Cal Baptist Lancers,Southern Utah Thunderbirds,,,2025-02-06 22:03:22.218807
+NCAAB,faacbed24080f5b7f3e9a746a229a58e,betonlineag,Tennessee Tech Golden Eagles,SIU-Edwardsville Cougars,,,2025-02-06 22:03:22.218807
+NCAAB,7fec38717762065f5614261404888f04,betonlineag,Oregon St Beavers,Washington St Cougars,-267.0,227.0,2025-02-06 22:03:22.218807
+NCAAB,594809e71a2a1c1beb3ad1cd406d70ec,betonlineag,Dayton Flyers,VCU Rams,,,2025-02-06 22:03:22.218807
+NCAAB,cf615e2c869e2c64b01f158665b11f50,betonlineag,Pennsylvania Quakers,Princeton Tigers,,,2025-02-06 22:03:22.218807
+NCAAB,2d0123ebbafe3fab20ed38d78368d3e2,betonlineag,Purdue Boilermakers,USC Trojans,,,2025-02-06 22:03:22.218807
+NCAAB,c1ac9e5a13e4fc4736da7c098b59df12,betonlineag,UConn Huskies,St. John's Red Storm,,,2025-02-06 22:03:22.218807
+NCAAB,efeb146e101201006d7d7f9618424b20,betonlineag,Boise State Broncos,San José St Spartans,,,2025-02-06 22:03:22.218807
+NCAAB,1e87e39951b9e3d34caf54ef53ec6a98,betonlineag,Saint Joseph's Hawks,Saint Louis Billikens,,,2025-02-06 22:03:22.218807
+NCAAB,1ddf39195e1b0c9e3aa07b0076da62d6,betonlineag,Fresno St Bulldogs,Utah State Aggies,,,2025-02-06 22:03:22.218807
+NCAAB,b4a08ed398e9c0d72468a7154d6e70ce,betonlineag,Kansas St Wildcats,Kansas Jayhawks,,,2025-02-06 22:03:22.218807
+NCAAB,47d2c8c50c01497753114dc72588d841,betonlineag,Auburn Tigers,Florida Gators,,,2025-02-06 22:03:22.218807
+NCAAB,677cc4c66e4d0d55a76cb6faba6e795a,betonlineag,Clemson Tigers,Duke Blue Devils,,,2025-02-06 22:03:22.218807
+NCAAB,d9f90ffa800147a5b71c578a124cd22f,espnbet,Utah Tech Trailblazers,Abilene Christian Wildcats,,,2025-02-06 22:03:22.218807
+NCAAB,9d25c1fc86a0e3699261ca0f883d04f4,espnbet,Tenn-Martin Skyhawks,Lindenwood Lions,-600.0,380.0,2025-02-06 22:03:22.218807
+NCAAB,c6962db1d2054fb2f64c034f4122b9b0,espnbet,Gonzaga Bulldogs,Loyola Marymount Lions,,,2025-02-06 22:03:22.218807
+NCAAB,ce1ec61e7cca36f6536c8da39bfa9a43,espnbet,Eastern Washington Eagles,Sacramento St Hornets,-170.0,135.0,2025-02-06 22:03:22.218807
+NCAAB,a8a955d9e27e412901e2879f7b83afd1,espnbet,Denver Pioneers,South Dakota Coyotes,2800.0,-15000.0,2025-02-06 22:03:22.218807
+NCAAB,457ecb627b559c09c6ff167c2456e49c,espnbet,UNC Asheville Bulldogs,Gardner-Webb Bulldogs,-8000.0,2200.0,2025-02-06 22:03:22.218807
+NCAAB,77a0689fa63576f4472864f1668c2760,espnbet,San Francisco Dons,Saint Mary's Gaels,-240.0,180.0,2025-02-06 22:03:22.218807
+NCAAB,a0f644a17c835d9b6f9e602042670dca,espnbet,CSU Bakersfield Roadrunners,UC Santa Barbara Gauchos,900.0,-2000.0,2025-02-06 22:03:22.218807
+NCAAB,af0aa676fc80b99e1dd4578087952efa,espnbet,Pacific Tigers,San Diego Toreros,-125.0,-105.0,2025-02-06 22:03:22.218807
+NCAAB,18da51245b432dc473891eee8d67e7ad,espnbet,Seattle Redhawks,Tarleton State Texans,-15000.0,2800.0,2025-02-06 22:03:22.218807
+NCAAB,a5b005b38b8e289f8a3b2b5310fa5f0e,espnbet,Cal Poly Mustangs,Hawai'i Rainbow Warriors,-110.0,-120.0,2025-02-06 22:03:22.218807
+NCAAB,035fd833bb584ebe20149559ba67c041,espnbet,CSU Northridge Matadors,CSU Fullerton Titans,-15000.0,2800.0,2025-02-06 22:03:22.218807
+NCAAB,84313ea8d2ff7e8e6836073dd4d2a318,espnbet,UC San Diego Tritons,UC Riverside Highlanders,-800.0,475.0,2025-02-06 22:03:22.218807
+NCAAB,ff2aabf65bba23e1e33df069f354c07c,espnbet,Long Beach St 49ers,UC Davis Aggies,105.0,-135.0,2025-02-06 22:03:22.218807
+NCAAB,ed56898315b4b626638775ad4bce187b,espnbet,Portland Pilots,Santa Clara Broncos,2000.0,-6000.0,2025-02-06 22:03:22.218807
+NCAAB,6c74299ec226ef6af381c081e8023341,espnbet,Cal Baptist Lancers,Southern Utah Thunderbirds,-200.0,160.0,2025-02-06 22:03:22.218807
+NCAAB,faacbed24080f5b7f3e9a746a229a58e,espnbet,Tennessee Tech Golden Eagles,SIU-Edwardsville Cougars,,,2025-02-06 22:03:22.218807
+NCAAB,7fec38717762065f5614261404888f04,espnbet,Oregon St Beavers,Washington St Cougars,-250.0,210.0,2025-02-06 22:03:22.218807
+NCAAB,594809e71a2a1c1beb3ad1cd406d70ec,espnbet,Dayton Flyers,VCU Rams,110.0,-130.0,2025-02-06 22:03:22.218807
+NCAAB,cf615e2c869e2c64b01f158665b11f50,espnbet,Pennsylvania Quakers,Princeton Tigers,260.0,-320.0,2025-02-06 22:03:22.218807
+NCAAB,2d0123ebbafe3fab20ed38d78368d3e2,espnbet,Purdue Boilermakers,USC Trojans,-1200.0,700.0,2025-02-06 22:03:22.218807
+NCAAB,c1ac9e5a13e4fc4736da7c098b59df12,espnbet,UConn Huskies,St. John's Red Storm,-140.0,120.0,2025-02-06 22:03:22.218807
+NCAAB,efeb146e101201006d7d7f9618424b20,espnbet,Boise State Broncos,San José St Spartans,-1200.0,700.0,2025-02-06 22:03:22.218807
+NCAAB,1e87e39951b9e3d34caf54ef53ec6a98,espnbet,Saint Joseph's Hawks,Saint Louis Billikens,-225.0,190.0,2025-02-06 22:03:22.218807
+NCAAB,1ddf39195e1b0c9e3aa07b0076da62d6,espnbet,Fresno St Bulldogs,Utah State Aggies,550.0,-900.0,2025-02-06 22:03:22.218807
+NCAAB,b4a08ed398e9c0d72468a7154d6e70ce,espnbet,Kansas St Wildcats,Kansas Jayhawks,,,2025-02-06 22:03:22.218807
+NCAAB,47d2c8c50c01497753114dc72588d841,espnbet,Auburn Tigers,Florida Gators,,,2025-02-06 22:03:22.218807
+NCAAB,677cc4c66e4d0d55a76cb6faba6e795a,espnbet,Clemson Tigers,Duke Blue Devils,,,2025-02-06 22:03:22.218807
+NCAAB,d9f90ffa800147a5b71c578a124cd22f,betus,Utah Tech Trailblazers,Abilene Christian Wildcats,,,2025-02-06 22:03:22.218807
+NCAAB,9d25c1fc86a0e3699261ca0f883d04f4,betus,Tenn-Martin Skyhawks,Lindenwood Lions,,,2025-02-06 22:03:22.218807
+NCAAB,c6962db1d2054fb2f64c034f4122b9b0,betus,Gonzaga Bulldogs,Loyola Marymount Lions,,,2025-02-06 22:03:22.218807
+NCAAB,ce1ec61e7cca36f6536c8da39bfa9a43,betus,Eastern Washington Eagles,Sacramento St Hornets,,,2025-02-06 22:03:22.218807
+NCAAB,a8a955d9e27e412901e2879f7b83afd1,betus,Denver Pioneers,South Dakota Coyotes,,,2025-02-06 22:03:22.218807
+NCAAB,457ecb627b559c09c6ff167c2456e49c,betus,UNC Asheville Bulldogs,Gardner-Webb Bulldogs,,,2025-02-06 22:03:22.218807
+NCAAB,77a0689fa63576f4472864f1668c2760,betus,San Francisco Dons,Saint Mary's Gaels,,,2025-02-06 22:03:22.218807
+NCAAB,a0f644a17c835d9b6f9e602042670dca,betus,CSU Bakersfield Roadrunners,UC Santa Barbara Gauchos,,,2025-02-06 22:03:22.218807
+NCAAB,af0aa676fc80b99e1dd4578087952efa,betus,Pacific Tigers,San Diego Toreros,,,2025-02-06 22:03:22.218807
+NCAAB,18da51245b432dc473891eee8d67e7ad,betus,Seattle Redhawks,Tarleton State Texans,,,2025-02-06 22:03:22.218807
+NCAAB,a5b005b38b8e289f8a3b2b5310fa5f0e,betus,Cal Poly Mustangs,Hawai'i Rainbow Warriors,,,2025-02-06 22:03:22.218807
+NCAAB,035fd833bb584ebe20149559ba67c041,betus,CSU Northridge Matadors,CSU Fullerton Titans,,,2025-02-06 22:03:22.218807
+NCAAB,84313ea8d2ff7e8e6836073dd4d2a318,betus,UC San Diego Tritons,UC Riverside Highlanders,,,2025-02-06 22:03:22.218807
+NCAAB,ff2aabf65bba23e1e33df069f354c07c,betus,Long Beach St 49ers,UC Davis Aggies,,,2025-02-06 22:03:22.218807
+NCAAB,ed56898315b4b626638775ad4bce187b,betus,Portland Pilots,Santa Clara Broncos,,,2025-02-06 22:03:22.218807
+NCAAB,6c74299ec226ef6af381c081e8023341,betus,Cal Baptist Lancers,Southern Utah Thunderbirds,,,2025-02-06 22:03:22.218807
+NCAAB,faacbed24080f5b7f3e9a746a229a58e,betus,Tennessee Tech Golden Eagles,SIU-Edwardsville Cougars,,,2025-02-06 22:03:22.218807
+NCAAB,7fec38717762065f5614261404888f04,betus,Oregon St Beavers,Washington St Cougars,-250.0,210.0,2025-02-06 22:03:22.218807
+NCAAB,594809e71a2a1c1beb3ad1cd406d70ec,betus,Dayton Flyers,VCU Rams,,,2025-02-06 22:03:22.218807
+NCAAB,cf615e2c869e2c64b01f158665b11f50,betus,Pennsylvania Quakers,Princeton Tigers,,,2025-02-06 22:03:22.218807
+NCAAB,2d0123ebbafe3fab20ed38d78368d3e2,betus,Purdue Boilermakers,USC Trojans,,,2025-02-06 22:03:22.218807
+NCAAB,c1ac9e5a13e4fc4736da7c098b59df12,betus,UConn Huskies,St. John's Red Storm,,,2025-02-06 22:03:22.218807
+NCAAB,efeb146e101201006d7d7f9618424b20,betus,Boise State Broncos,San José St Spartans,,,2025-02-06 22:03:22.218807
+NCAAB,1e87e39951b9e3d34caf54ef53ec6a98,betus,Saint Joseph's Hawks,Saint Louis Billikens,,,2025-02-06 22:03:22.218807
+NCAAB,1ddf39195e1b0c9e3aa07b0076da62d6,betus,Fresno St Bulldogs,Utah State Aggies,,,2025-02-06 22:03:22.218807
+NCAAB,b4a08ed398e9c0d72468a7154d6e70ce,betus,Kansas St Wildcats,Kansas Jayhawks,,,2025-02-06 22:03:22.218807
+NCAAB,47d2c8c50c01497753114dc72588d841,betus,Auburn Tigers,Florida Gators,,,2025-02-06 22:03:22.218807
+NCAAB,677cc4c66e4d0d55a76cb6faba6e795a,betus,Clemson Tigers,Duke Blue Devils,,,2025-02-06 22:03:22.218807
+NCAAB,d9f90ffa800147a5b71c578a124cd22f,betrivers,Utah Tech Trailblazers,Abilene Christian Wildcats,,,2025-02-06 22:03:22.218807
+NCAAB,9d25c1fc86a0e3699261ca0f883d04f4,betrivers,Tenn-Martin Skyhawks,Lindenwood Lions,-400.0,240.0,2025-02-06 22:03:22.218807
+NCAAB,c6962db1d2054fb2f64c034f4122b9b0,betrivers,Gonzaga Bulldogs,Loyola Marymount Lions,,,2025-02-06 22:03:22.218807
+NCAAB,ce1ec61e7cca36f6536c8da39bfa9a43,betrivers,Eastern Washington Eagles,Sacramento St Hornets,-220.0,145.0,2025-02-06 22:03:22.218807
+NCAAB,a8a955d9e27e412901e2879f7b83afd1,betrivers,Denver Pioneers,South Dakota Coyotes,,,2025-02-06 22:03:22.218807
+NCAAB,457ecb627b559c09c6ff167c2456e49c,betrivers,UNC Asheville Bulldogs,Gardner-Webb Bulldogs,,,2025-02-06 22:03:22.218807
+NCAAB,77a0689fa63576f4472864f1668c2760,betrivers,San Francisco Dons,Saint Mary's Gaels,-715.0,375.0,2025-02-06 22:03:22.218807
+NCAAB,a0f644a17c835d9b6f9e602042670dca,betrivers,CSU Bakersfield Roadrunners,UC Santa Barbara Gauchos,650.0,-1667.0,2025-02-06 22:03:22.218807
+NCAAB,af0aa676fc80b99e1dd4578087952efa,betrivers,Pacific Tigers,San Diego Toreros,-125.0,-117.0,2025-02-06 22:03:22.218807
+NCAAB,18da51245b432dc473891eee8d67e7ad,betrivers,Seattle Redhawks,Tarleton State Texans,,,2025-02-06 22:03:22.218807
+NCAAB,a5b005b38b8e289f8a3b2b5310fa5f0e,betrivers,Cal Poly Mustangs,Hawai'i Rainbow Warriors,-129.0,-112.0,2025-02-06 22:03:22.218807
+NCAAB,035fd833bb584ebe20149559ba67c041,betrivers,CSU Northridge Matadors,CSU Fullerton Titans,,,2025-02-06 22:03:22.218807
+NCAAB,84313ea8d2ff7e8e6836073dd4d2a318,betrivers,UC San Diego Tritons,UC Riverside Highlanders,,,2025-02-06 22:03:22.218807
+NCAAB,ff2aabf65bba23e1e33df069f354c07c,betrivers,Long Beach St 49ers,UC Davis Aggies,,,2025-02-06 22:03:22.218807
+NCAAB,ed56898315b4b626638775ad4bce187b,betrivers,Portland Pilots,Santa Clara Broncos,,,2025-02-06 22:03:22.218807
+NCAAB,6c74299ec226ef6af381c081e8023341,betrivers,Cal Baptist Lancers,Southern Utah Thunderbirds,,,2025-02-06 22:03:22.218807
+NCAAB,faacbed24080f5b7f3e9a746a229a58e,betrivers,Tennessee Tech Golden Eagles,SIU-Edwardsville Cougars,350.0,-670.0,2025-02-06 22:03:22.218807
+NCAAB,7fec38717762065f5614261404888f04,betrivers,Oregon St Beavers,Washington St Cougars,-275.0,215.0,2025-02-06 22:03:22.218807
+NCAAB,594809e71a2a1c1beb3ad1cd406d70ec,betrivers,Dayton Flyers,VCU Rams,110.0,-134.0,2025-02-06 22:03:22.218807
+NCAAB,cf615e2c869e2c64b01f158665b11f50,betrivers,Pennsylvania Quakers,Princeton Tigers,240.0,-315.0,2025-02-06 22:03:22.218807
+NCAAB,2d0123ebbafe3fab20ed38d78368d3e2,betrivers,Purdue Boilermakers,USC Trojans,,,2025-02-06 22:03:22.218807
+NCAAB,c1ac9e5a13e4fc4736da7c098b59df12,betrivers,UConn Huskies,St. John's Red Storm,-141.0,116.0,2025-02-06 22:03:22.218807
+NCAAB,efeb146e101201006d7d7f9618424b20,betrivers,Boise State Broncos,San José St Spartans,,,2025-02-06 22:03:22.218807
+NCAAB,1e87e39951b9e3d34caf54ef53ec6a98,betrivers,Saint Joseph's Hawks,Saint Louis Billikens,-215.0,175.0,2025-02-06 22:03:22.218807
+NCAAB,1ddf39195e1b0c9e3aa07b0076da62d6,betrivers,Fresno St Bulldogs,Utah State Aggies,600.0,-1000.0,2025-02-06 22:03:22.218807
+NCAAB,b4a08ed398e9c0d72468a7154d6e70ce,betrivers,Kansas St Wildcats,Kansas Jayhawks,,,2025-02-06 22:03:22.218807
+NCAAB,47d2c8c50c01497753114dc72588d841,betrivers,Auburn Tigers,Florida Gators,,,2025-02-06 22:03:22.218807
+NCAAB,677cc4c66e4d0d55a76cb6faba6e795a,betrivers,Clemson Tigers,Duke Blue Devils,,,2025-02-06 22:03:22.218807
+NCAAB,d9f90ffa800147a5b71c578a124cd22f,ballybet,Utah Tech Trailblazers,Abilene Christian Wildcats,,,2025-02-06 22:03:22.218807
+NCAAB,9d25c1fc86a0e3699261ca0f883d04f4,ballybet,Tenn-Martin Skyhawks,Lindenwood Lions,-385.0,260.0,2025-02-06 22:03:22.218807
+NCAAB,c6962db1d2054fb2f64c034f4122b9b0,ballybet,Gonzaga Bulldogs,Loyola Marymount Lions,,,2025-02-06 22:03:22.218807
+NCAAB,ce1ec61e7cca36f6536c8da39bfa9a43,ballybet,Eastern Washington Eagles,Sacramento St Hornets,-210.0,155.0,2025-02-06 22:03:22.218807
+NCAAB,a8a955d9e27e412901e2879f7b83afd1,ballybet,Denver Pioneers,South Dakota Coyotes,,,2025-02-06 22:03:22.218807
+NCAAB,457ecb627b559c09c6ff167c2456e49c,ballybet,UNC Asheville Bulldogs,Gardner-Webb Bulldogs,,,2025-02-06 22:03:22.218807
+NCAAB,77a0689fa63576f4472864f1668c2760,ballybet,San Francisco Dons,Saint Mary's Gaels,-670.0,420.0,2025-02-06 22:03:22.218807
+NCAAB,a0f644a17c835d9b6f9e602042670dca,ballybet,CSU Bakersfield Roadrunners,UC Santa Barbara Gauchos,750.0,-1667.0,2025-02-06 22:03:22.218807
+NCAAB,af0aa676fc80b99e1dd4578087952efa,ballybet,Pacific Tigers,San Diego Toreros,-120.0,-112.0,2025-02-06 22:03:22.218807
+NCAAB,18da51245b432dc473891eee8d67e7ad,ballybet,Seattle Redhawks,Tarleton State Texans,,,2025-02-06 22:03:22.218807
+NCAAB,a5b005b38b8e289f8a3b2b5310fa5f0e,ballybet,Cal Poly Mustangs,Hawai'i Rainbow Warriors,-122.0,-107.0,2025-02-06 22:03:22.218807
+NCAAB,035fd833bb584ebe20149559ba67c041,ballybet,CSU Northridge Matadors,CSU Fullerton Titans,,,2025-02-06 22:03:22.218807
+NCAAB,84313ea8d2ff7e8e6836073dd4d2a318,ballybet,UC San Diego Tritons,UC Riverside Highlanders,,,2025-02-06 22:03:22.218807
+NCAAB,ff2aabf65bba23e1e33df069f354c07c,ballybet,Long Beach St 49ers,UC Davis Aggies,,,2025-02-06 22:03:22.218807
+NCAAB,ed56898315b4b626638775ad4bce187b,ballybet,Portland Pilots,Santa Clara Broncos,,,2025-02-06 22:03:22.218807
+NCAAB,6c74299ec226ef6af381c081e8023341,ballybet,Cal Baptist Lancers,Southern Utah Thunderbirds,,,2025-02-06 22:03:22.218807
+NCAAB,faacbed24080f5b7f3e9a746a229a58e,ballybet,Tennessee Tech Golden Eagles,SIU-Edwardsville Cougars,390.0,-625.0,2025-02-06 22:03:22.218807
+NCAAB,7fec38717762065f5614261404888f04,ballybet,Oregon St Beavers,Washington St Cougars,-275.0,215.0,2025-02-06 22:03:22.218807
+NCAAB,594809e71a2a1c1beb3ad1cd406d70ec,ballybet,Dayton Flyers,VCU Rams,110.0,-134.0,2025-02-06 22:03:22.218807
+NCAAB,cf615e2c869e2c64b01f158665b11f50,ballybet,Pennsylvania Quakers,Princeton Tigers,240.0,-315.0,2025-02-06 22:03:22.218807
+NCAAB,2d0123ebbafe3fab20ed38d78368d3e2,ballybet,Purdue Boilermakers,USC Trojans,,,2025-02-06 22:03:22.218807
+NCAAB,c1ac9e5a13e4fc4736da7c098b59df12,ballybet,UConn Huskies,St. John's Red Storm,-141.0,116.0,2025-02-06 22:03:22.218807
+NCAAB,efeb146e101201006d7d7f9618424b20,ballybet,Boise State Broncos,San José St Spartans,,,2025-02-06 22:03:22.218807
+NCAAB,1e87e39951b9e3d34caf54ef53ec6a98,ballybet,Saint Joseph's Hawks,Saint Louis Billikens,-215.0,175.0,2025-02-06 22:03:22.218807
+NCAAB,1ddf39195e1b0c9e3aa07b0076da62d6,ballybet,Fresno St Bulldogs,Utah State Aggies,600.0,-1000.0,2025-02-06 22:03:22.218807
+NCAAB,b4a08ed398e9c0d72468a7154d6e70ce,ballybet,Kansas St Wildcats,Kansas Jayhawks,,,2025-02-06 22:03:22.218807
+NCAAB,47d2c8c50c01497753114dc72588d841,ballybet,Auburn Tigers,Florida Gators,,,2025-02-06 22:03:22.218807
+NCAAB,677cc4c66e4d0d55a76cb6faba6e795a,ballybet,Clemson Tigers,Duke Blue Devils,,,2025-02-06 22:03:22.218807
